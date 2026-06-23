@@ -3,7 +3,6 @@
   "buildCommand": "npx vite build",
   "outputDirectory": "dist",
   "installCommand": "npm install",
-  "nodeVersion": "24.x",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
