@@ -1,3 +1,5 @@
+'use client'
+
 import { useState } from 'react'
 import { FiClock, FiBarChart2 } from 'react-icons/fi'
 import { recipes } from '../data'

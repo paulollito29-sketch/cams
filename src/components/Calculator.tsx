@@ -1,3 +1,5 @@
+'use client'
+
 import { useState, type FormEvent } from 'react'
 import { FiClock, FiBarChart2, FiChevronDown, FiChevronUp } from 'react-icons/fi'
 import {
